@@ -4,7 +4,7 @@ let secHolder = 0;
 
 let minutes = 0;
 let speed = 100;
-
+ 
 
 function startTimer() {
     speed = document.getElementById('speed').value;
